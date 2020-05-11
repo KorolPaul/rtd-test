@@ -1,0 +1,20 @@
+{
+  "name": "@wotfe/code-guidelines",
+  "version": "1.0.0",
+  "description": "WoT Frontend Team code guidlines",
+  "repository": {
+    "type": "git",
+    "url": "https://stash.wargaming.net/scm/~p_korol/wot-fe-code-guidelines.git"
+  },
+  "keywords": [
+    "wotfe",
+    "guidlines",
+    "css",
+    "scss",
+    "js",
+    "vue",
+    "react"
+  ],
+  "author": "WoT FE team",
+  "license": "ISC"
+}
