@@ -1,0 +1,5 @@
+--trusted-host pypi.wargaming.net
+
+wg-package==0.4.*
+sphinx==2.2.0
+sphinx-rtd-theme==0.4.3
