@@ -5,4 +5,4 @@ wg-package==0.4.*
 m2r==0.2.1
 sphinx==2.2.0
 sphinx-rtd-theme==0.4.3
-zipp===0.4.*
+zipp==0.4.*
