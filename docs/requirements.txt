@@ -3,7 +3,7 @@
 
 wg-package==0.4.*
 m2r==0.2.1
-sphinx==2.2.0
+sphinx==2.1.0
 sphinx-rtd-theme==0.4.3
 zipp==0.4.*
 mkdocs==0.14.0
